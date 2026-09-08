@@ -21,6 +21,6 @@ I am a Senior Frontend/Full Stack Engineer with over 5 years of enterprise exper
 * **High Concurrency Architecture:** Designed secure, isolated database schemas and high-performance REST APIs to reliably manage concurrent sessions for 1,000+ daily active users.
 
 ### 📫 Let's Connect
-* **LinkedIn:** [linkedin.com/in/nehapattnayak-8119b2188](https://www.linkedin.com/in/neha-pattnayak-8119b2188/)
+* **LinkedIn:** [linkedin.com/in/nehapattnayak-8119b2188](https://www.linkedin.com/in/neha-pattnayak-swe/)
 * **Portfolio:** [my-portfolio-7bb38.web.app](https://my-portfolio-7bb38.web.app/)
 * **Email:** nehapattnayak123@gmail.com
