@@ -8,6 +8,13 @@ My focus is on turning complex product requirements into maintainable systems: m
 
 ## Featured Engineering
 
+### 🏗️ ArchOS — Cloud Architecture SaaS
+**Next.js · React Flow · TypeScript · Node.js · GraphQL · Docker · AI Architecture Review**
+
+A cloud architecture design and visualization platform focused on interactive system topology, architecture workflows, infrastructure-oriented exports, and AI-assisted architecture review. It represents the strongest example of combining product engineering, developer tooling, visual system design, and AI-assisted workflows.
+
+→ [Repository](https://github.com/Neha9826/arch-os)
+
 ### 🧠 Multi-Workspace Document Assistant
 **Next.js · TypeScript · Supabase · PostgreSQL/pgvector · ONNX · Groq**
 
@@ -39,7 +46,7 @@ A full-stack business platform combining a Laravel backend with a modern React/I
 ## Engineering Highlights
 
 - **Performance:** improved complex MySQL query execution by ~40% through schema/index/query optimization.
-- **API architecture:** worked with REST, GraphQL and gRPC-based systems for data-heavy applications.
+- **API architecture:** worked with REST, GraphQL and gRPC systems for data-heavy applications.
 - **Multi-tenancy:** designed workspace/tenant-scoped data access and retrieval boundaries.
 - **AI engineering:** built RAG systems with vector search, local embeddings, tool calling, prompt-injection-aware retrieval, and persistent AI conversations.
 - **Reliability:** emphasize idempotency, validation, failure handling, observability, and reproducible testing.
