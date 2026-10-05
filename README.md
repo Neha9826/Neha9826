@@ -1,26 +1,77 @@
-# Hi there, I'm Neha Pattnayak 👋
+# Neha Pattnayak
 
-**Senior Full Stack Engineer | Architecting Scalable SaaS & Real-Time Dashboards**
+**Senior Full Stack Engineer | Scalable SaaS, Backend Systems, AI Applications & Developer Platforms**
 
-I am a Senior Frontend/Full Stack Engineer with over 5 years of enterprise experience, specializing in data-heavy UI/UX, workflow automation, and scalable client-side architectures. I actively leverage AI-assisted engineering workflows (Cursor, Claude Code) to ship high-quality code and accelerate feature delivery.
+I build production-oriented software across **TypeScript, React/Next.js, Node.js, Python, Laravel, PostgreSQL/MySQL, GraphQL, AWS, Docker, and AI/LLM systems**.
 
-### 🚀 Current Focus
-* Architecting the UI/UX and migrating legacy data-fetching to GraphQL and gRPC streaming for a complex Fintech market screener.
-* Leading full-stack development, relational schema modeling, and 0->1 feature prototyping at Dev Engine AI.
-* Integrating agentic AI workflows into standard SDLC to optimize component reusability and cross-browser reliability.
+My focus is on turning complex product requirements into maintainable systems: multi-tenant SaaS, real-time interfaces, API platforms, data-heavy applications, RAG pipelines, agentic workflows, and developer tooling.
 
-### 🛠️ Core Tech Stack
-* **Frontend:** React.js, Next.js, TypeScript, JavaScript (ES6+), Redux, Tailwind CSS, Vue 3
-* **Backend:** Laravel (PHP 8+), Node.js, Python, RESTful APIs, GraphQL, gRPC, Core Java
-* **Database & Cloud:** MySQL (Query Optimization), PostgreSQL, Redis, AWS (EC2, S3), Docker, Kubernetes
-* **Tools & AI:** Cursor, Claude Code, GitHub Copilot, CI/CD (GitHub Actions), Sentry, Laravel Horizon
+## Featured Engineering
 
-### 📈 Featured Engineering Wins
-* **UI/UX Performance:** Shifted heavy computational filtering to backend middleware, reducing client-side payload bloat and improving frontend data rendering by 25%.
-* **Database Scaling:** Engineered highly scalable MySQL schemas and refined query index strategies, optimizing complex relational query execution time complexity by over 40%.
-* **High Concurrency Architecture:** Designed secure, isolated database schemas and high-performance REST APIs to reliably manage concurrent sessions for 1,000+ daily active users.
+### 🧠 Multi-Workspace Document Assistant
+**Next.js · TypeScript · Supabase · PostgreSQL/pgvector · ONNX · Groq**
 
-### 📫 Let's Connect
-* **LinkedIn:** [linkedin.com/in/nehapattnayak-8119b2188](https://www.linkedin.com/in/neha-pattnayak-swe/)
-* **Portfolio:** [my-portfolio-7bb38.web.app](https://my-portfolio-7bb38.web.app/)
-* **Email:** nehapattnayak123@gmail.com
+A production-style document AI platform with workspace-isolated RAG, persistent chat, private PDF storage, local embeddings, controlled tool calling, citations, idempotent ingestion, and tool-call audit logging.
+
+→ [Repository](https://github.com/Neha9826/Multi-Workspace-Document-Assistant)
+
+### 📊 Graph Database Benchmark
+**Node.js · Neo4j Driver · Cypher · FalkorDB · Performance Engineering**
+
+A reproducible benchmark suite comparing graph database platforms across ingestion throughput, p50/p95 query latency, traversal workloads, aggregation, and mixed read/write concurrency using the SNAP citation dataset.
+
+→ [Repository](https://github.com/Neha9826/graph-database-benchmark)
+
+### 🌐 SoilnWater
+**Laravel · PHP · MySQL · Filament · Livewire · Multi-role Workflows**
+
+A multi-sided marketplace platform covering businesses, products, properties, projects, offers, classifieds, promotions, customer workflows, vendor workflows, authentication, and administrative approval flows.
+
+→ [Repository](https://github.com/Neha9826/soilnwater)
+
+### 🏢 SatvaDig
+**Laravel · React · Inertia · Tailwind · Sanctum · Filament**
+
+A full-stack business platform combining a Laravel backend with a modern React/Inertia frontend, authenticated user workflows, lead capture, service/content presentation, and an admin-oriented architecture.
+
+→ [Repository](https://github.com/Neha9826/SatvaDig)
+
+## Engineering Highlights
+
+- **Performance:** improved complex MySQL query execution by ~40% through schema/index/query optimization.
+- **API architecture:** worked with REST, GraphQL and gRPC-based systems for data-heavy applications.
+- **Multi-tenancy:** designed workspace/tenant-scoped data access and retrieval boundaries.
+- **AI engineering:** built RAG systems with vector search, local embeddings, tool calling, prompt-injection-aware retrieval, and persistent AI conversations.
+- **Reliability:** emphasize idempotency, validation, failure handling, observability, and reproducible testing.
+- **Developer productivity:** use AI-assisted engineering workflows with structured repository instructions, automated checks, and repeatable development practices.
+
+## Core Stack
+
+**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, Inertia
+
+**Backend:** Node.js, Python, Laravel/PHP, REST, GraphQL, gRPC
+
+**Data:** PostgreSQL, MySQL, MongoDB, Redis, pgvector
+
+**Cloud & DevOps:** AWS, Docker, Kubernetes, GitHub Actions, CI/CD
+
+**AI:** RAG, LLM applications, embeddings, ONNX, Hugging Face, agent/tool workflows
+
+## What I Like Building
+
+- Multi-tenant SaaS platforms
+- AI-native developer and business tools
+- Data-heavy dashboards and workflow systems
+- API-first backend architectures
+- Real-time and collaborative applications
+- Performance and reliability tooling
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/nehapattnayak-swe/)
+- [Portfolio](https://my-portfolio-7bb38.web.app/)
+- Email: **nehapattnayak123@gmail.com**
+
+---
+
+*Building systems that are not only functional, but observable, scalable, secure, and maintainable.*
